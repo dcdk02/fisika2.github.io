@@ -82,7 +82,7 @@
                 }
             }
             ?>
-            <input type="button" onclick="window.location.href='http://localhost/dimas/test2.php';" value="Kembali" class="btn">
+            <input type="button" onclick="window.location.href='http://localhost/fisika/index.html';" value="Kembali" class="btn">
         </div>
     </div>
 </body>
